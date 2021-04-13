@@ -1,4 +1,4 @@
-; TITLE MSINIT.ASM -- MS-DOS INITIALIZATION CODE
+; TITLE PSINIT.ASM -- PS-DOS INITIALIZATION CODE
 
         ORG     0                       ; reset to beginning of data segment
 ; Init code below overlaps with data area
